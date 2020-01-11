@@ -1,6 +1,7 @@
 # lpic-self-notes
 
 Pointer notes for the LPI Certs.
+
 Useful for checking and reviewing the common Linux OS components and tools.
 
 ------
